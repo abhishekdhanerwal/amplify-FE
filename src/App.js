@@ -13,6 +13,7 @@ function App() {
       <header className="App-header">
         <AmplifySignOut />
         My App
+        First Change to Check CI/CD
       </header>
     </div>
   );
